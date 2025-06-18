@@ -11,6 +11,13 @@ O sistema foi desenvolvido como estudo de uma arquitetura MVC simples em PHP. O 
 - **19_moviestar**: contém modelos, classes DAO, recursos visuais, scripts e o `index.php` principal do site.
 
 Além disso, há um diagrama do banco de dados em `trabalho/EIVOM/19_moviestar/diagramaMOVIESTAR.pdf`.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="46" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="git logo"  />
+</div>
 
 ## Recursos Principais
 
@@ -23,14 +30,46 @@ Além disso, há um diagrama do banco de dados em `trabalho/EIVOM/19_moviestar/d
 ## Estrutura do Repositório
 
 ```
-npw-movies/
-├── README.md               # Documento atual
-└── trabalho/
-    └── EIVOM/
-        ├── 19_moviestar/   # Arquivos principais do MovieStar
-        ├── Controller/     # Controladores das ações
-        ├── View/           # Templates e páginas
-        └── README.md
+📁 19_moviestar/
+│
+├── 📁 models/
+│   ├── User.php
+│   ├── Movie.php
+│   ├── Review.php
+│   ├── Message.php
+│   └── 📁 dao/
+│       ├── UserDAO.php
+│       ├── MovieDAO.php
+│       └── ReviewDAO.php
+│
+├── 📁 Controller/
+│   ├── auth.php
+│   ├── auth_process.php
+│   ├── logout.php
+│   ├── movie_process.php
+│   ├── newmovie.php
+│   ├── review_process.php
+│   ├── search.php
+│   └── user_process.php
+│
+├── 📁 View/
+│   ├── dashboard.php
+│   ├── editmovie.php
+│   ├── editprofile.php
+│   ├── footer.php
+│   ├── header.php
+│   ├── movie.php
+│   ├── movie_card.php
+│   ├── profile.php
+│   └── user_review.php
+│
+├── 📁 img/
+├── 📁 css/
+├── db.php
+├── globals.php
+└── index.php
+
+
 ```
 
 ## Configuração e Execução
