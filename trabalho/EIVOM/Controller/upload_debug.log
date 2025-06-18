@@ -1,0 +1,10 @@
+2025-06-18 03:37:59 - Tentando salvar: ./img/movies/2fa0ab9442cf313eb5675d14721380d1a24832d114863e294307e620ffeffe8e5b015111c362596d09d064edeee0b378fb4dc87c1e3e9ea058d868cc.jpg, resultado: FALHA, tipo: image/jpeg, nome original: Fondo de pantalla Casa Kame de Dragon Ball.jpg
+2025-06-18 03:38:53 - Tentando salvar: ./img/movies/197460ea3a085432db48a2ab4f402a51abc2fddb87a5bb510b7624955371e7fff4273d5b6eb89e07530fdc10d61a13a16a0ad2201c55e76608766613.jpg, resultado: FALHA, tipo: image/jpeg, nome original: goku.jpg
+2025-06-18 03:39:54 - Tentando salvar: ./img/movies/6e407a41eed6aab807dd994379a2d05619dc73aed40a85f4506dcf4867f78f12cc51c6ca07d273eb8381e7593ca3972ce018a5afcf009697b6211d86.jpg, resultado: FALHA, tipo: image/jpeg, nome original: goku.jpg
+2025-06-18 03:41:01 - Tentando salvar: ./img/movies/d9f8b2514e00c2914f6a2d0fba2a84ab95abd38bdc66671bb3e7d240022fa93fcc491616f65466c43e917867c81727efc72b6fd5ac84f21f083f7bd5.jpg, resultado: FALHA, tipo: image/jpeg, nome original: goku.jpg
+2025-06-18 03:41:01 - Falha ao salvar: d9f8b2514e00c2914f6a2d0fba2a84ab95abd38bdc66671bb3e7d240022fa93fcc491616f65466c43e917867c81727efc72b6fd5ac84f21f083f7bd5.jpg
+2025-06-18 03:41:01 - movie->image: 
+2025-06-18 03:41:56 - _FILES: {"image":{"name":"goku.jpg","full_path":"goku.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpB77F.tmp","error":0,"size":143763}}
+2025-06-18 03:41:56 - Tentando salvar: ./img/movies/f96706213e008aecea91ab5e1c0d830d092989c745fa9ba68f2cc2074a1f84e2dd8370da7418036552b84c87da7ceaa36303af4de05f386d2ee7f487.jpg, resultado: FALHA, tipo: image/jpeg, nome original: goku.jpg
+2025-06-18 03:41:56 - Falha ao salvar: f96706213e008aecea91ab5e1c0d830d092989c745fa9ba68f2cc2074a1f84e2dd8370da7418036552b84c87da7ceaa36303af4de05f386d2ee7f487.jpg
+2025-06-18 03:41:56 - movie->image: 
