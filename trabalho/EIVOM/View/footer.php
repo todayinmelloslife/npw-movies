@@ -2,13 +2,13 @@
     <div id="social-container">
       <ul>
         <li>
-          <a href="#"><i class="fab fa-facebook-square"></i></a>
+          <a href="https://open.spotify.com/intl-pt/track/6vlDTH2W9GNuz2mLfTrSeG?si=d8a01cdf3c734078"><i class="fab fa-facebook-square"></i></a>
         </li>
         <li>
-          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.bing.com/images/search?q=gaivota+meme&form=HDRSC4&first=1"><i class="fab fa-instagram"></i></a>
         </li>
         <li>
-          <a href="#"><i class="fab fa-youtube"></i></a>
+          <a href="https://www.youtube.com/watch?v=CM_A4f9qqzo"><i class="fab fa-youtube"></i></a>
         </li>
       </ul>
     </div>

@@ -3,17 +3,21 @@
   position: relative;
 }
 
+#logo {
+  width: 50px;
+}
+
 #moviestar-title {
-  color: #FFF;
+  color: #daf8f9;
+  bottom: 8px;
   position: absolute;
-  bottom: -2px;
   font-size: 30px;
   left: 55px;
   font-weight: bold;
 }
 
 #main-navbar {
-  background-color: #121212;
+  background-color: #205495;
 }
 
 #search-form {
@@ -40,7 +44,7 @@
 }
 
 .navbar-nav .nav-item .nav-link {
-  color: #FFF;
+  color: #daf8f9;
   transition: .5s;
 }
 
@@ -53,7 +57,7 @@
 }
 
 .msg-container {
-  background-color: #000;
+  background-color: hsl(0, 0%, 0%);
   padding: 15px;
 }
 
@@ -79,21 +83,22 @@
 
 /* Home */
 #main-container {
-  background-color: #000;
-  color: #FFF;
+  background-color: #daf8f9;
+  color: #193b6d;
+  font-weight: bolder;
   min-height: 65vh;
   padding: 40px;
 }
 
 .section-title {
   font-size: 24px;
-  border-left: 4px solid #F5C518;
+  border-left: 4px solid #205495;
   padding-left: 12px;
   margin-top: 20px;
 }
 
 .section-description {
-  color: #CCC;
+  color: #193b6d;
   font-size: 18px;
 }
 
@@ -104,7 +109,7 @@
 }
 
 .movie-card {
-  background-color: #1A1A1A;
+  background-color: #193b6d;
   width: 18%;
   margin-bottom: 30px;
   margin-left: 1%;
@@ -128,7 +133,7 @@
 }
 
 .fas.fa-star {
-  color: #F5C518;
+  color: #cbd8e9;
 }
 
 .rating {
@@ -138,14 +143,14 @@
 .rate-btn {
   margin-bottom: 15px;
   color: #5799EF;
-  background-color: #333;
+  background-color: #daf8f9;
   border-color: #333;
   width: 100%;
   font-weight: bold;
 }
 
 .rate-btn:hover {
-  background-color: #444;
+  background-color: #247bc2;
   border-color: #444;
 }
 
@@ -164,7 +169,7 @@
 #login-container h2,
 #register-container h2 {
   text-align: center;
-  border-bottom: 2px solid #F5C518;
+  border-bottom: 2px solid #3168ce;
   width: 200px;
   margin: 0 auto;
   padding: 10px;
@@ -178,8 +183,8 @@
 
 .card-btn {
   color: #000;
-  background-color: #F5C518;
-  border: 2px solid #F5C518;
+  background-color: #2866c4;
+  border: 2px solid #242588;
   width: 100%;
 }
 
@@ -194,7 +199,7 @@
 .profile-image-container {
   width: 150px;
   height: 150px;
-  border: 6px solid #F5C518;
+  border: 6px solid #231285;
   border-radius: 100%;
   background-size: cover;
   background-position: center;
@@ -207,7 +212,7 @@
 }
 
 .page-description {
-  color: #999;
+  color: #1866a7;
 }
 
 #bio {
@@ -215,7 +220,7 @@
 }
 
 .form-control.disabled {
-  background-color: #BBB;
+  background-color: #cbd8e9;
 }
 
 #change-password-container {
@@ -289,7 +294,7 @@
 .page-title:after {
   content: "";
   width: 300px;
-  border-bottom: 2px solid #F5C518;
+  border-bottom: 2px solid #2e429c;
   display: block;
   margin: 0 auto;
   padding-top: 7px;
@@ -305,7 +310,7 @@
 }
 
 .pipe {
-  border: 1px solid #333;
+  border: 1px solid #e21d1d;
   margin: 0 10px;
 }
 
@@ -326,7 +331,7 @@
 #reviews-container {
   margin-top: 20px;
   padding-top: 20px;
-  border-top: 4px solid #F5C518;
+  border-top: 4px solid #294279;
 }
 
 .review {
@@ -339,7 +344,7 @@
 }
 
 .author-name a {
-  color: #F5C518;
+  color: #98a9cf;
 }
 
 .comment-title {
@@ -352,7 +357,7 @@
 }
 
 #movies-dashboard .table {
-  color: #FFF;
+  color: #373d88;
 }
 
 #movies-dashboard .table th {
@@ -364,13 +369,13 @@
 }
 
 .table-movie-title {
-  color: #FFF;
+  color: #2a62a3;
   font-weight: bold;
   transition: .5s;
 }
 
 .table-movie-title:hover {
-  color: #F5C518;
+  color: #377add;
 }
 
 .actions-column {
@@ -421,12 +426,12 @@
 
 #search-result,
 .back-link {
-  color: #F5C518;
+  color: #5a77b4;
 }
 
 /* Footer */
 #footer {
-  background-color: #000;
+  background-color: #283777;
   color: #FFF;
   text-align: center;
   margin: 0;
@@ -561,7 +566,7 @@
   }
 
   .fas.fa-bars {
-    color: #F5C518;
+    color: #1d649e;
   }
 
 }
